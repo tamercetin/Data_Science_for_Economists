@@ -1,1 +1,1 @@
-# DataScienceforEconomists
+# Data Science for Economists
